@@ -1,0 +1,78 @@
+body{
+    background-color: #6c4a5d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    line-height: 1.5em;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#mainTable{
+    background-color: #f5f5f5;
+    box-shadow: rgba(0,0,0,0.5) 0px 5px 15px;
+    border-radius: 4%;
+    padding: 1%;
+}
+
+.item{
+    display: inline-block;
+    width: 33%;
+    text-align: justify;
+}
+
+#middleDiv{  
+    text-align: center;
+}
+
+#rightDiv{
+    text-align: right;
+    
+}
+
+#profilePic{
+    width: 55%;
+    border: 8px solid #6c4a5d;
+    border-radius: 50%;
+    box-shadow: rgba(0,0,0,0.4) 0px 5px 10px;
+}
+
+h3{
+    color: #6c4a5d;
+}
+
+.icon{
+    width: 6%;
+}
+
+#split{
+    height: 1px;
+    background-color: black;
+    margin-right: 0%;
+}
+
+hr{
+    background-color: #6c4a5d;
+    margin-right: 50%;
+}
+
+.specialtd{
+    display: block;
+}
+
+.date{
+    font-size: 14px;
+    color: #c770a1;
+    font-style: italic;
+}
+
+h4{
+    line-height: 5px;
+}
+
+.skill{
+    background-color: #6c4a5d;
+    color: #f5f5f5;
+    border: 5px solid #6c4a5d;
+    border-radius: 10%;
+    box-shadow: rgba(0,0,0,0.3) 0px 5px 10px;
+}
