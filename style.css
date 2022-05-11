@@ -3,8 +3,8 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 17px;
     line-height: 1.5em;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 #mainTable{
@@ -44,6 +44,14 @@ h3{
     width: 6%;
 }
 
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: #c770a1;
+}
+
 #split{
     height: 1px;
     background-color: black;
@@ -77,3 +85,6 @@ h4{
     box-shadow: rgba(0,0,0,0.3) 0px 5px 10px;
 } 
 
+.lang{
+    margin-left: 23%;
+}
