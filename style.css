@@ -3,8 +3,8 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 17px;
     line-height: 1.5em;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 #mainTable{
@@ -42,16 +42,6 @@ h3{
 
 .icon{
     width: 6%;
-}
-
-#link:link{
-    color: black;
-}
-#link:visited{
-    color: black;
-}
-#link:hover{
-    color: #c770a1;
 }
 
 #split{
